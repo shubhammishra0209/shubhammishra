@@ -1,29 +1,29 @@
 {
   "profile": {
-    "name": "Shubham mishra",
-    "title": "Associate System Engineer",
-    "email": "mishrashubham1712@gmail.com",
-    "phone": "9910878754",
-    "location": "india",
+    "name": "shubham mishra",
+    "title": "Associate System Engineer  View Projects View Resum",
+    "email": "shubhammishra0209@gmail.com",
+    "phone": "",
+    "location": "",
     "linkedin": "",
     "topmate": "",
-    "photo": "/profile.jpg",
+    "photo": "/placeholder-avatar.svg",
     "cvUrl": "",
-    "footerLine": "Associate System Engineer"
+    "footerLine": "Associate System Engineer  View Projects View Resum"
   },
   "socials": [
     {
       "label": "Email",
       "icon": "mail",
-      "href": "mailto:mishrashubham1712@gmail.com"
+      "href": "mailto:shubhammishra0209@gmail.com"
     }
   ],
   "hero": {
     "status": "",
     "greeting": "Hi, I’m",
-    "firstName": "Shubham",
+    "firstName": "shubham",
     "lastName": "mishra",
-    "role": "Associate System Engineer",
+    "role": "Associate System Engineer  View Projects View Resum",
     "summary": "",
     "primaryButton": {
       "label": "View Projects",
@@ -86,7 +86,7 @@
   "mentoring": {
     "enabled": false,
     "pill": "",
-    "headline": "Mentor with Shubham",
+    "headline": "Mentor with shubham",
     "text": "",
     "bookLabel": "Book a Session on Topmate",
     "linkedinLabel": "Connect on LinkedIn",
@@ -97,7 +97,7 @@
   "linkedinBanner": {
     "eyebrow": "Insights · Career guidance",
     "titleA": "Connect with",
-    "titleB": "Shubham on LinkedIn",
+    "titleB": "shubham on LinkedIn",
     "text": "",
     "button": "Connect on LinkedIn"
   },
@@ -112,7 +112,7 @@
     "posts": []
   },
   "modules": {
-    "backend": false,
-    "blog": false
+    "backend": true,
+    "blog": true
   }
 }
