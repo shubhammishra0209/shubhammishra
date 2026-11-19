@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "shubham mishra",
-    "title": "Associate System Engineer  View Projects View Resum",
+    "title": "Associate System Engineer",
     "email": "shubhammishra0209@gmail.com",
     "phone": "",
     "location": "",
@@ -9,7 +9,7 @@
     "topmate": "",
     "photo": "/placeholder-avatar.svg",
     "cvUrl": "",
-    "footerLine": "Associate System Engineer  View Projects View Resum"
+    "footerLine": "Associate System Engineer"
   },
   "socials": [
     {
@@ -23,7 +23,7 @@
     "greeting": "Hi, I’m",
     "firstName": "shubham",
     "lastName": "mishra",
-    "role": "Associate System Engineer  View Projects View Resum",
+    "role": "Associate System Engineer",
     "summary": "",
     "primaryButton": {
       "label": "View Projects",
